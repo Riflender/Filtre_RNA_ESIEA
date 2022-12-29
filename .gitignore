@@ -1,0 +1,8 @@
+.idea
+venv
+
+data
+output
+
+*_esiea.xlsx
+*_esiea_data.txt
